@@ -1,4 +1,4 @@
-#Dimentional Reduction and Clustering
+# Dimentional Reduction and Clustering
 
 
 Dimetional Reduction with:
